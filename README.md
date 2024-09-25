@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Katlego</h1>
 <h3 align="center">A passionate software developer from South Africa</h3>
-<p>I am passionate about programming and transforming ideas into tangible software solutions. With a keen interest in the field of data, I continuously strive to enhance my skills and knowledge. My goal is to stay at the forefront of technological advancements by embracing lifelong learning and professional development. I am dedicated to building efficient, scalable, and innovative applications that make a difference.</p>
+<p>I am passionate about programming and transforming ideas into tangible software solutions. With a keen interest in Web development, I continuously strive to enhance my skills and knowledge. My goal is to stay at the forefront of technological advancements by embracing lifelong learning and professional development. I am dedicated to building efficient, scalable, and innovative applications that make a difference.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katdev16&label=Profile%20views&color=0e75b6&style=flat" alt="katdev16" /> </p>
 
